@@ -10,7 +10,7 @@ These are educated guesses based on the date the sample run started.  The bulk s
 ## _random-100/_
 
 * Sampler commit: [7da2c424b6eeb602915d91477b61c40b1d39c359](https://github.com/NYULibraries/openurl-link-resolver-sampler/tree/7da2c424b6eeb602915d91477b61c40b1d39c359)
-* Ariadne commit: [e6994f6d7bd5061ec9a548bae7a7705b63baaf2d](https://github.com/NYULibraries/ariadne/tree/e6994f6d7bd5061ec9a548bae7a7705b63baaf2d)
+* Ariadne commit: [420dad4217a5bca28ace607e5f8f5906bf58b2a3](https://github.com/NYULibraries/ariadne/tree/420dad4217a5bca28ace607e5f8f5906bf58b2a3)
 
 ## _targeted/_
 
