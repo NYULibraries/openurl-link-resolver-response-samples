@@ -17,3 +17,8 @@ These are educated guesses based on the date the sample run started.  The bulk s
 * Sampler commit: [7da2c424b6eeb602915d91477b61c40b1d39c359](https://github.com/NYULibraries/openurl-link-resolver-sampler/tree/7da2c424b6eeb602915d91477b61c40b1d39c359)
 * Ariadne commit: [e6994f6d7bd5061ec9a548bae7a7705b63baaf2d](https://github.com/NYULibraries/ariadne/tree/e6994f6d7bd5061ec9a548bae7a7705b63baaf2d)
 
+## _failed-729/_
+
+* Sampler commit: [7da2c424b6eeb602915d91477b61c40b1d39c359](https://github.com/NYULibraries/openurl-link-resolver-sampler/tree/7da2c424b6eeb602915d91477b61c40b1d39c359)
+* Ariadne commit: [9a3081c1e3e24702c5c8c68d767f8b4fb559c4a9](https://github.com/NYULibraries/ariadne/tree/9a3081c1e3e24702c5c8c68d767f8b4fb559c4a9)
+
